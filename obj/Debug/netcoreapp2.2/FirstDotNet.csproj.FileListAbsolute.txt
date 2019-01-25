@@ -1,0 +1,11 @@
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.csprojAssemblyReference.cache
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.csproj.CoreCompileInputs.cache
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.AssemblyInfoInputs.cache
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.AssemblyInfo.cs
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\bin\Debug\netcoreapp2.2\FirstDotNet.deps.json
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\bin\Debug\netcoreapp2.2\FirstDotNet.runtimeconfig.json
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\bin\Debug\netcoreapp2.2\FirstDotNet.runtimeconfig.dev.json
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\bin\Debug\netcoreapp2.2\FirstDotNet.dll
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\bin\Debug\netcoreapp2.2\FirstDotNet.pdb
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.dll
+C:\Users\S531502\Course\C# .Net\New folder\FirstDotNet\obj\Debug\netcoreapp2.2\FirstDotNet.pdb
